@@ -630,9 +630,10 @@ input[type="submit"]:hover {
 
 /*  leyenda de derechos de autor */
 .leyenda-copyright {
-    display: none;
+     display: none;
     /* Oculta la leyenda por defecto */
-    text-align: center;
+    text-align:left;
+    font-size: 10px;
 }
 
 /* vista de impresión */
