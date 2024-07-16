@@ -632,8 +632,8 @@ input[type="submit"]:hover {
 .leyenda-copyright {
      display: none;
     /* Oculta la leyenda por defecto */
-    text-align:left;
-    font-size: 10px;
+    text-align: left;
+    font-size: 9px;
 }
 
 /* vista de impresión */
